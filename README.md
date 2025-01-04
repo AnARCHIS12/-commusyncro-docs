@@ -1,7 +1,7 @@
 # Documentation CommuSyncro
 
 <div align="center">
-<img src="../assets/logo.svg" alt="Logo CommuSyncro" width="200" height="200"/>
+
 
 *"De chaque serveur selon ses moyens, à chaque serveur selon ses besoins !"*
 </div>
